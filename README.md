@@ -8,8 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated earlier, to demo how to use both Git and Github together.
 
 ## Deployment
+
+Hello World
 
 ## How to contribute
